@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09021110-5d61-4a42-ab37-a57bfe5ce6a5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2X5APtYUG77vvcFDzx3hHZUNnLj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/proba&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\proba\src\main\resources\static\img" />
+      <recent name="D:\proba\src\main\resources\templates" />
+      <recent name="D:\proba\src\main\java\com\example\proba" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\proba\src\main\resources\static\img" />
+      <recent name="D:\proba\src\main\resources\templates\blocks" />
+      <recent name="D:\proba\src\main\resources\static" />
+      <recent name="D:\proba\src\main\resources\templates\css" />
+      <recent name="D:\proba\src\main\resources\static\css\img" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.proba.configurations" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProbaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="proba" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.proba.ProbaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09021110-5d61-4a42-ab37-a57bfe5ce6a5" name="Changes" comment="" />
+      <created>1697908550350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697908550350</updated>
+      <workItem from="1697908551627" duration="2433000" />
+      <workItem from="1697914317163" duration="429000" />
+      <workItem from="1697915273381" duration="387000" />
+      <workItem from="1697916540423" duration="1260000" />
+      <workItem from="1697917946154" duration="61000" />
+      <workItem from="1697969877084" duration="82000" />
+      <workItem from="1697971064496" duration="45000" />
+      <workItem from="1697978795650" duration="5233000" />
+      <workItem from="1697993931164" duration="4352000" />
+      <workItem from="1698046207353" duration="79000" />
+      <workItem from="1698055499555" duration="250000" />
+      <workItem from="1698065125475" duration="3340000" />
+      <workItem from="1698069409802" duration="41000" />
+      <workItem from="1698083048008" duration="5551000" />
+      <workItem from="1698337483983" duration="188000" />
+      <workItem from="1698337846211" duration="107000" />
+      <workItem from="1698338015780" duration="451000" />
+      <workItem from="1698340451841" duration="2114000" />
+      <workItem from="1698651410513" duration="329000" />
+      <workItem from="1698670923501" duration="10868000" />
+      <workItem from="1698682151842" duration="181000" />
+      <workItem from="1698683076527" duration="27000" />
+      <workItem from="1698683248118" duration="55000" />
+      <workItem from="1698744572945" duration="6356000" />
+      <workItem from="1698754210373" duration="29000" />
+      <workItem from="1698845009559" duration="10124000" />
+      <workItem from="1698935626387" duration="307000" />
+      <workItem from="1698938700309" duration="3168000" />
+      <workItem from="1698942460489" duration="150000" />
+      <workItem from="1698944224963" duration="1634000" />
+      <workItem from="1699025806908" duration="1074000" />
+      <workItem from="1699030301824" duration="1801000" />
+      <workItem from="1699100219133" duration="8627000" />
+      <workItem from="1699112707689" duration="6637000" />
+      <workItem from="1699283080306" duration="1208000" />
+      <workItem from="1699290113059" duration="2454000" />
+      <workItem from="1699294059964" duration="593000" />
+      <workItem from="1699295736708" duration="1714000" />
+      <workItem from="1699423491496" duration="1046000" />
+      <workItem from="1699424580163" duration="1455000" />
+      <workItem from="1699466028806" duration="2036000" />
+      <workItem from="1699509267822" duration="786000" />
+      <workItem from="1699527760985" duration="4568000" />
+      <workItem from="1699613325298" duration="326000" />
+      <workItem from="1699633814639" duration="34000" />
+      <workItem from="1699900714361" duration="29000" />
+      <workItem from="1699906199787" duration="96000" />
+      <workItem from="1699943351068" duration="37000" />
+      <workItem from="1699943403004" duration="747000" />
+      <workItem from="1699944705186" duration="136000" />
+      <workItem from="1699944858294" duration="308000" />
+      <workItem from="1699967936374" duration="253000" />
+      <workItem from="1699978346524" duration="103000" />
+      <workItem from="1699978462760" duration="182000" />
+      <workItem from="1699983639625" duration="21000" />
+      <workItem from="1700051148628" duration="2790000" />
+      <workItem from="1700072238428" duration="2617000" />
+      <workItem from="1700152994768" duration="3462000" />
+      <workItem from="1700159449080" duration="1114000" />
+      <workItem from="1700164083674" duration="5009000" />
+      <workItem from="1700220158389" duration="5331000" />
+      <workItem from="1700226075849" duration="6497000" />
+      <workItem from="1700236035798" duration="3311000" />
+      <workItem from="1700284076767" duration="13112000" />
+      <workItem from="1700305316235" duration="853000" />
+      <workItem from="1700505536955" duration="47000" />
+      <workItem from="1700656907882" duration="107000" />
+      <workItem from="1700731990360" duration="1405000" />
+      <workItem from="1700822902731" duration="1659000" />
+      <workItem from="1700824792883" duration="29000" />
+      <workItem from="1700826690748" duration="271000" />
+      <workItem from="1700827221779" duration="65000" />
+      <workItem from="1700842065957" duration="4868000" />
+      <workItem from="1700847050383" duration="95000" />
+      <workItem from="1700847891164" duration="1064000" />
+      <workItem from="1700912792429" duration="268000" />
+      <workItem from="1700913378960" duration="2090000" />
+      <workItem from="1700920811963" duration="3089000" />
+      <workItem from="1700924502449" duration="2449000" />
+      <workItem from="1700927713743" duration="1052000" />
+      <workItem from="1700929255669" duration="116000" />
+      <workItem from="1700929398332" duration="2413000" />
+      <workItem from="1700987119887" duration="12322000" />
+      <workItem from="1701030979705" duration="2000" />
+      <workItem from="1701031065260" duration="343000" />
+      <workItem from="1701031704472" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
