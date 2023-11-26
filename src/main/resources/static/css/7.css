@@ -1,0 +1,49 @@
+body{
+    background: aliceblue;
+}
+.coll{
+    display: inline-block;
+    width: 300px;
+    margin: 10px 8px;
+    text-align: center;
+}
+header{
+    background-color: snow;
+}
+header h2{
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    position: absolute;
+    left: 0;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+.poisk{
+    margin-top: 7px;
+    position: absolute;
+    right:75px;
+}
+.asa{
+    margin-top: 7px;
+    position: absolute;
+    right:15px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+a.product-link {
+    color: black;
+}
+.card-text{
+    text-align: justify;
+    text-indent: 20px;
+}
